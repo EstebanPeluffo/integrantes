@@ -1,2 +1,4 @@
-# integrantes
-Integrantes de la comunidad de Ples
+# Integrantes
+
+- Alex Osorio
+- Sebastian Arrieta
