@@ -2,3 +2,4 @@
 
 - Alex Osorio
 - Sebastian Arrieta
+- Roy Gonzalez
